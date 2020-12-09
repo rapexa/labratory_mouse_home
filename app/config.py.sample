@@ -1,0 +1,9 @@
+SECRET_KEY = "{YOUR FLASK SECRET_KEY}"
+username = "{YOUR LOGIN PAGE USERNAME}"
+password = "{YOUR LOGIN PAGE PASSWORD}"
+host="localhost"
+user="nativeuserme"
+passwd="password"
+db="alldatas"
+charset="utf8"
+auth_plugin='mysql_native_password'
