@@ -1,13 +1,20 @@
 ﻿# title : labratory_mouse_home
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/jadijadi/sms_serial_verification/blob/master/LICENSE) 
-[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/jadijadi/sms_serial_verification/blob/master/requirements.txt)
-[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/jadijadi/sms_serial_verification/blob/master/TODO.md)
+[![LICENSE](https://img.shields.io/badge/LICENSE-GPL--3.0-green)](https://github.com/rapexa/labratory_mouse_home/blob/master/LICENSE) 
+[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/rapexa/labratory_mouse_home/blob/master/requirements.txt)
+[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/rapexa/labratory_mouse_home/blob/master/README.md)
 
-assay subject : effect of electro magnetic fields on human and live creaters
-authors : mohammad gharehbagh && sohil shoravarzi
+## assay subject 
 
-## Todolist :
+effect of electro magnetic fields on human and live creaters
+
+
+## authors  
+
+- mohammad gharehbagh
+- sohil shoravarzi
+
+## Todolist 
 - [x] make comment and introduction in both code sites
 - [x] write readme.mi and make TODOS on it
 - [x] add this project on git 
@@ -53,7 +60,7 @@ Every single step of this project is screen captures and you can follow them [On
 
 ## How to run
 1. Install python3, pip3, virtualenv, arduino+complete(librarys and bourds), MySQL in your system.
-2. Clone the project `git clone https://github.com/mgmgst/labratory_mouse_home.git && cd labratory_mouse_home`
+2. Clone the project `git clone https://github.com/rapexa/labratory_mouse_home.git && cd labratory_mouse_home`
 5. Create a virtualenv named venv using `virtualenv -p python3 venv`
 6. Connect to virtualenv using `source venv/bin/activate`
 7. From the project folder, install packages using `pip install -r requirements.txt`
